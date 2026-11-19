@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/src/" />
+  <Folder Name="/src/BookStore.Domain/">
+    <Project Path="BookStore.Domain/BookStore.Domain.csproj" />
+  </Folder>
+  <Folder Name="/src/BookStore.Infrastructure/">
+    <Project Path="BookStore.Infrastructure/BookStore.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/src/BookStore.Web/">
+    <Project Path="BookStore.Web/BookStore.Web.csproj" />
+  </Folder>
+</Solution>
